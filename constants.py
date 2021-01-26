@@ -1,0 +1,26 @@
+command_mapping = {
+    'newtab': 'New Tab',
+    'closetab': 'Close Tab',
+    'takescreenshot': 'Take Screenshot',
+    'closealltabs': 'Close All Tabs',
+    'openyoutube': 'Open YouTube',
+    'openfacebook': 'Open Facebook',
+    'openreddit': 'Open Reddit',
+    'opengmail': 'Open Gmail',
+    'opentwitter': 'Open Twitter',
+    'openamazon': 'Open Amazon',
+    'opennetflix': 'Open Netflix',
+    'pause': 'Pause',
+    'resume': 'Resume',
+    'maximize': 'Maximize',
+    'minimize': 'Minimize',
+    'bottom': 'Bottom',
+    'pageup': 'Page Up',
+    'scrollup': 'Scroll up',
+    'scrolldown': 'Scroll Down',
+    'refresh': 'Refresh',
+    'on': ' Turned On',
+    'off': ' Turned Off',
+    'of': 'Turned Off'
+}
+
